@@ -1,0 +1,2 @@
+int32 moteur_droit
+int32 moteur_gauche

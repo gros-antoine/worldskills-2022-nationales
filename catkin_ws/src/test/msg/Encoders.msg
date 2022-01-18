@@ -1,0 +1,2 @@
+int32 angular_pose_droit
+int32 angular_pose_gauche
